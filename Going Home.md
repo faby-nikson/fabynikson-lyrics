@@ -2,6 +2,7 @@
 
 > Lyrics by Faby Nikson - 2022/04/20
 
+```
 I won’t come back home, I’ll enjoy my freedom
 
 A Saturday feeling blue
@@ -31,3 +32,4 @@ we’ll build a new home there
 Then we’ll be singing along:
 "we are going home" cause you'll be my reason
 We are going home, now we’re going home
+```
